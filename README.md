@@ -1,2 +1,2 @@
-# PythonStudy
-Study Project for Python learning 
+# DjangoBasic
+Study Project for Python and Django
