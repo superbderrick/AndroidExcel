@@ -1,3 +1,4 @@
-# DjangoPools
-Simple web pools aplication with Django offical tutorial 
-https://docs.djangoproject.com/ko/3.1/intro/tutorial01/
+# AndroidExcel
+
+Kotlin base Android demo app using POI Lib to make excel files or read data from excel files 
+
